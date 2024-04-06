@@ -35,7 +35,7 @@ let pvr = [
         b: [8, 5],
         a: [],
         price: [800, 800, 560, 560, 560, 560, 430, 430],
-        date: 1,
+        date: 6,
         img: 'img/jawan.jpg',
         video: 'video/Jawan.mp4'
     },
@@ -57,7 +57,7 @@ let pvr = [
         b: [8, 5, 12, 13, 14],
         a: [],
         price: [800, 800, 560, 560, 560, 560, 430, 430],
-        date: 1,
+        date: 6,
         img: 'img/Gadar2.jpg',
         video: 'video/Gadar2.mp4'
     },
@@ -79,7 +79,7 @@ let pvr = [
         b: [8, 5],
         a: [],
         price: [800, 800, 560, 560, 560, 560, 430, 430],
-        date: 2,
+        date: 7,
         img: 'img/jawan.jpg',
         video: 'video/Jawan.mp4'
     },
@@ -101,7 +101,7 @@ let pvr = [
         b: [8, 5, 12, 13, 14],
         a: [],
         price: [800, 800, 560, 560, 560, 560, 430, 430],
-        date: 2,
+        date: 7,
         img: 'img/Gadar2.jpg',
         video: 'video/Gadar2.mp4'
     },
@@ -123,7 +123,7 @@ let pvr = [
         b: [8, 5],
         a: [],
         price: [800, 800, 560, 560, 560, 560, 430, 430],
-        date: 3,
+        date: 8,
         img: 'img/jawan.jpg',
         video: 'video/Jawan.mp4'
     },
@@ -145,7 +145,7 @@ let pvr = [
         b: [8, 5, 12, 13, 14],
         a: [],
         price: [800, 800, 560, 560, 560, 560, 430, 430],
-        date: 3,
+        date: 8,
         img: 'img/Gadar2.jpg',
         video: 'video/Gadar2.mp4'
     },
@@ -167,7 +167,7 @@ let pvr = [
         b: [8, 5],
         a: [],
         price: [800, 800, 560, 560, 560, 560, 430, 430],
-        date: 4,
+        date: 9,
         img: 'img/jawan.jpg',
         video: 'video/Jawan.mp4'
     },
@@ -189,7 +189,7 @@ let pvr = [
         b: [8, 5, 12, 13, 14],
         a: [],
         price: [800, 800, 560, 560, 560, 560, 430, 430],
-        date: 4,
+        date: 9,
         img: 'img/Gadar2.jpg',
         video: 'video/Gadar2.mp4'
     },
@@ -211,7 +211,7 @@ let pvr = [
         b: [8, 5],
         a: [],
         price: [800, 800, 560, 560, 560, 560, 430, 430],
-        date: 5,
+        date: 10,
         img: 'img/jawan.jpg',
         video: 'video/Jawan.mp4'
     },
@@ -233,7 +233,7 @@ let pvr = [
         b: [8, 5, 12, 13, 14],
         a: [],
         price: [800, 800, 560, 560, 560, 560, 430, 430],
-        date: 5,
+        date: 10,
         img: 'img/Gadar2.jpg',
         video: 'video/Gadar2.mp4'
     },
